@@ -41,3 +41,13 @@ This workbook contains code to build and populate a scikit-learn model using ver
 ### sql-query-page.ipynb
 
 A workbook for ad-hoc SQL queries and/or pandas operations to explore the dataset.  
+
+### data citation
+
+@dataset{2020covidclinicaldata,
+  author =       {Carbon Health and Braid Health},
+  title =        {Coronavirus Disease 2019 (COVID-19) Clinical Data Repository},
+  howpublished = {Accessed from \url{https://covidclinicaldata.org/.}},
+  year =         2020,
+  version =      {10-20-2020}
+}
