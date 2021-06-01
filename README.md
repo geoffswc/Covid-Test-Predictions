@@ -44,6 +44,7 @@ A workbook for ad-hoc SQL queries and/or pandas operations to explore the datase
 
 ### data citation
 
+```
 @dataset{2020covidclinicaldata,
   author =       {Carbon Health and Braid Health},
   title =        {Coronavirus Disease 2019 (COVID-19) Clinical Data Repository},
@@ -51,3 +52,4 @@ A workbook for ad-hoc SQL queries and/or pandas operations to explore the datase
   year =         2020,
   version =      {10-20-2020}
 }
+```
